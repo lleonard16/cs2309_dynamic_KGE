@@ -20,7 +20,7 @@ Test:
 
 
 #### References:
-I implemented my proposed model based on the code skeleton of HyTE model as referenced below. I have improved the HyTE model by adding weights to data while training. The weight is decided by Duration Modelling(Kaplan–Meier estimator).
+##### I implemented my proposed model based on the code skeleton of HyTE model as referenced below. I have improved the HyTE model by adding weights to data while training. The weight is decided by Duration Modelling(Kaplan–Meier estimator).
 
 Dasgupta, S., Ray, S., & Talukdar, P. (2018). Hyte: Hyperplane-based temporally aware knowledge graph embedding. In Proceedings of the 2018 conference on empirical methods in natural language processing (pp. 2001–2011).
 
